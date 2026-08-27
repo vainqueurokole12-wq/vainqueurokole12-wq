@@ -1,4 +1,4 @@
-![Bannière Légendaire](banniere.jpg)
+![Bannière Légendaire](IMG-20260827-WA9611.jpg)
 
 ### Bonjour, je suis OKOLE NTWALI VAINQUEUR 👋### Bonjour, je suis OKOLE NTWALI VAINQUEUR 👋
 
