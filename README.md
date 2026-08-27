@@ -1,12 +1,12 @@
 ![Bannière Légendaire](IMG-20260827-WA9611.jpg)
+![Visites](https://komarev.com/ghpvc/?username=vainqueurokole12-wq&color=0E75B6&style=for-the-badge&label=VUES+DU+PROFIL)
 
-### Bonjour, je suis OKOLE NTWALI VAINQUEUR 👋
+# Bonjour, je suis OKOLE NTWALI VAINQUEUR 👋
 
-📍 Goma, Nord-Kivu, RDC 💻 Développeur Python | Cybersécurité
-🚀 Créateur de codes-invisibles-goma 📱 +243 978857875### Bonjour, je suis OKOLE NTWALI VAINQUEUR 👋
-
-📍 Goma, Nord-Kivu, RDC 💻 Développeur Python | Cybersécurité
-🚀 Créateur de codes-invisibles-goma 📱 +243 978857875
+📍 Goma, Nord-Kivu, RDC
+💻 Développeur Python | Cybersécurité
+🚀 Créateur de **codes-invisibles-goma**
+📱 +243 978857875
 
 ### Qui est OKOLE NTWALI VAINQUEUR ?
 
