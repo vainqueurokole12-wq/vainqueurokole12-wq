@@ -1,19 +1,20 @@
-![Bannière Légendaire](IMG-20260827-WA9611.jpg)
-![Bannière Légendaire](IMG-20260827-WA9611.jpg)
-
 ### Bonjour, je suis OKOLE NTWALI VAINQUEUR 👋
 
 📍 Goma, Nord-Kivu, RDC 💻 Développeur Python | Cybersécurité
 🚀 Créateur de codes-invisibles-goma 📱 +243 978857875
 
-📍 Goma, Nord-Kivu, RDC
-💻 Développeur Python | Cybersécurité
-🚀 Créateur de codes-invisibles-goma
-📱 +243 978857875
+### Qui est OKOLE NTWALI VAINQUEUR ?
 
-#### Qui est OKOLE NTWALI VAINQUEUR ?
-Je suis un développeur congolais basé à Goma, en République Démocratique du Congo. Je suis le créateur du projet open-source codes-invisibles-goma.
+Je suis un développeur congolais basé à Goma, en République Démocratique du Congo. Je suis le Premier Légendaire de Goma.
 
-Je code malgré les coupures et la connexion lente. Mon objectif : devenir le Premier Légendaire de Goma avec 100 étoiles sur GitHub.
+Mon projet : **codes-invisibles-goma** - apprendre le code Python aux jeunes de Goma même sans connexion internet.
 
-Retrouvez-moi en cherchant : OKOLE NTWALI VAINQUEUR Goma sur Google.
+### 🛠️ Compétences
+- Python
+- Cybersécurité
+- Développement Web
+
+### 📫 Me contacter
+- GitHub: @vainqueurokole12-wq
+- Téléphone: +243 978857875
+- Ville: Goma, RDC
