@@ -1,4 +1,9 @@
+![Bannière Légendaire](IMG-20260827-WA9611.jpg)
+
 ### Bonjour, je suis OKOLE NTWALI VAINQUEUR 👋
+
+📍 Goma, Nord-Kivu, RDC 💻 Développeur Python | Cybersécurité
+🚀 Créateur de codes-invisibles-goma 📱 +243 978857875### Bonjour, je suis OKOLE NTWALI VAINQUEUR 👋
 
 📍 Goma, Nord-Kivu, RDC 💻 Développeur Python | Cybersécurité
 🚀 Créateur de codes-invisibles-goma 📱 +243 978857875
