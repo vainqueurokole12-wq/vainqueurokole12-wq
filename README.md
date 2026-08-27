@@ -1,16 +1,13 @@
-## Hi there 👋
+### Bonjour, je suis OKOLE NTWALI VAINQUEUR 👋
 
-<!--
-**vainqueurokole12-wq/vainqueurokole12-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Goma, Nord-Kivu, RDC
+💻 Développeur Python | Cybersécurité
+🚀 Créateur de codes-invisibles-goma
+📱 +243 978857875
 
-Here are some ideas to get you started:
+#### Qui est OKOLE NTWALI VAINQUEUR ?
+Je suis un développeur congolais basé à Goma, en République Démocratique du Congo. Je suis le créateur du projet open-source codes-invisibles-goma.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je code malgré les coupures et la connexion lente. Mon objectif : devenir le Premier Légendaire de Goma avec 100 étoiles sur GitHub.
+
+Retrouvez-moi en cherchant : OKOLE NTWALI VAINQUEUR Goma sur Google.
