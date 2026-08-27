@@ -1,4 +1,6 @@
-### Bonjour, je suis OKOLE NTWALI VAINQUEUR 👋
+![Bannière Légendaire](futuristic_github_banner.webp)
+
+### Bonjour, je suis OKOLE NTWALI VAINQUEUR 👋### Bonjour, je suis OKOLE NTWALI VAINQUEUR 👋
 
 📍 Goma, Nord-Kivu, RDC
 💻 Développeur Python | Cybersécurité
